@@ -5,7 +5,7 @@ Grep network info from ifconfig and export it as variable.
 * ifconfig
 ### Usage
 ```
-git clone https://github.com/bashhs/network-info-to-variable.git
-cd network-info-to-variable/
+git clone https://github.com/bashhs/networkinfo2variable.git
+cd networkinfo2variable/
 bash networkinfo.sh
 ```
