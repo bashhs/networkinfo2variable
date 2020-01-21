@@ -1,4 +1,4 @@
-# Export network info as variable 
+# Export networking info as variable 
 ### Requirements
 * route
 * ifconfig
