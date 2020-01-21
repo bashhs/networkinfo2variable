@@ -1,4 +1,5 @@
 # Export networking info as variable 
+Grep network info from ifconfig and export it as variable.
 ### Requirements
 * route
 * ifconfig
